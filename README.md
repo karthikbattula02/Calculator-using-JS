@@ -1,4 +1,4 @@
-# Calculator Web App <a href="https://karthikbattula02.github.io/LGMVIP-Web-Task-4/" > Link</a>
+# Calculator Web App <a href="https://karthikbattula02.github.io/Calculator-using-JS/" > Link</a>
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript.
 
